@@ -20,6 +20,8 @@ The architecture of DCO is designed by Reference[2](https://ieeexplore.ieee.org/
 
 ![ADICdemo2系統架構](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/bb5d78ce-08e0-49d9-a720-3ca1c1d41e9d)
 
+![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/b5bea130-b408-41ef-9836-f205627cb98b)  
+
 Period jitter(s)：
 ![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/5a218744-aa49-41e7-ae76-1b4dbaa80de8)
 
