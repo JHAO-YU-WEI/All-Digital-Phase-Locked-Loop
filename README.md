@@ -8,11 +8,13 @@ Correct **PLL Behavior Simulation**
 
 Correct **AMS-Ultra PLL Simulation**  
 
-1.**Phase and Frequency Detector(PFD)**：Compare the phase and frequecy error.  Reference[1](https://ieeexplore.ieee.org/document/1175517)
+1.**Phase and Frequency Detector(PFD)**：Compare the phase and frequecy error.   
+The architecture of PFD is designed by Reference[1](https://ieeexplore.ieee.org/document/1175517)
 
 2.**PLL Controller**：Update the output frequency for tracking.  
-
-3.**Digital Controlled Oscillator(DCO)**：Provide 128 different frequencies.  Reference[2](https://ieeexplore.ieee.org/document/933795)
+ 
+3.**Digital Controlled Oscillator(DCO)**：Provide 128 different frequencies.  
+The architecture of PFD is designed by Reference[2](https://ieeexplore.ieee.org/document/933795)
 
 4.**Frequency Divider**：Provide the divided frequency to PFD.  
 
