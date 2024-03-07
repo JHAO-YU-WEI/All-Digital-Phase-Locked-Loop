@@ -4,10 +4,11 @@
 
 Design ADPLL to keep tracking the phase and frequency of referance clock.  
 
-Correct PLL Behavior Simulation  
+Correct PLL Behavior Simulation    
+
 Correct AMS-Ultra PLL Simulation  
 
-1.Phase and Frequency Detector(PFD)：Compare the phase and frequecy error.  [1]
+1.Phase and Frequency Detector(PFD)：Compare the phase and frequecy error.  [1](https://ieeexplore.ieee.org/document/1175517)
 
 2.PLL Controller：Update the output frequency for tracking.  
 
