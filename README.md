@@ -18,6 +18,8 @@ The architecture of DCO is designed by Reference[2](https://ieeexplore.ieee.org/
 
 4.**Frequency Divider**：Provide the divided frequency to PFD.  
 
+
+ADPLL系統架構：
 ![ADPLL系統架構](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/d94644fe-e788-4f8e-a7b2-d88ef8e2ad9a)
 
 
