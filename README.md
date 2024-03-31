@@ -18,16 +18,18 @@ The architecture of DCO is designed by Reference[2](https://ieeexplore.ieee.org/
 
 4.**Frequency Divider**：Provide the divided frequency to PFD.  
 
-![ADICdemo2系統架構](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/bb5d78ce-08e0-49d9-a720-3ca1c1d41e9d)
+![ADPLL系統架構](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/d94644fe-e788-4f8e-a7b2-d88ef8e2ad9a)
 
-![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/b5bea130-b408-41ef-9836-f205627cb98b)  
+
+![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/e3378d02-6c2f-4120-9854-7a75a0b3f767)
+
 
 Period jitter(s)：
-![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/5a218744-aa49-41e7-ae76-1b4dbaa80de8)
+![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/d532fe04-45f8-4cbe-a4df-b26b110b0d0b)
 
  
 Cycle-to-Cycle jitter(ns)：
-![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/894e5b5e-f462-4deb-9c5d-82420f969f3a)
+![image](https://github.com/JHAO-YU-WEI/All-Digital-Phase-Locked-Loop/assets/100525884/38a6d929-67c5-4443-86be-80fb901bf20a)
 
  
 ## Reference  
