@@ -1,6 +1,6 @@
 # All-Digital-Phase-Locked-Loop
 
-## CSIE DIC LAB--All-Digital Phase-Locked Loop(ADPLL)
+## CSIE ADIC LAB--All-Digital Phase-Locked Loop(ADPLL)
 
 Design **ADPLL** to keep tracking the phase and frequency of referance clock.  
 
